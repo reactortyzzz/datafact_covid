@@ -1,0 +1,9 @@
+{
+	"name": "datafact-covid-project",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93a97e4e-2b43-429b-88a6-f27fd205740b",
+		"tenantId": "86c54f02-632e-424b-9242-6a3304c32727"
+	}
+}
